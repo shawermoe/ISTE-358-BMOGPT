@@ -1,3 +1,4 @@
+# ISTE-358-BMOGPT
 ## Overview
 This project is a voice-activated chatbot that utilizes the OpenAI GPT-3.5 model for generating responses and a text-to-speech (TTS) engine for vocalizing them. The system listens for specific wake words, processes spoken queries, fetches responses from ChatGPT, and then reads them aloud.
 
